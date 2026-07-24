@@ -1,0 +1,12 @@
+Home Task 1 validation
+
+Executed command:
+python -m unittest -v test_tsp.py
+
+Results:
+- test_default_full_experiment_improves_baseline: PASS
+- test_generated_city_shape_and_range: PASS
+- test_route_length_is_closed_and_positive: PASS
+- test_two_opt_delta_matches_full_recalculation: PASS
+
+Ran 4 tests. All tests passed.
