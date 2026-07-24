@@ -1,12 +1,3 @@
-"""
-Home Task 1 - minimal version matching the lecture program.
-
-Required improvement:
-Replace the original random two-city swap with a 2-opt move
-(path reversal), while keeping the lecture's city-generation
-settings and simulated-annealing structure.
-"""
-
 import numpy as np
 import matplotlib
 
