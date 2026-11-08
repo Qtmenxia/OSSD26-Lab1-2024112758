@@ -89,3 +89,14 @@ Before submitting, replace the placeholder student information in the first note
 
 This section records the Git operations
 performed during the OSSD26-Lab1 experiment.
+
+Git tracks changes through commits.
+Each commit records a snapshot of the project.
+The commit history helps developers review
+and manage different versions of the software.
+
+### Key Git Concepts
+
+- Branches support parallel development.
+- Merging integrates changes from different branches.
+- Remote repositories support collaboration and backup.
