@@ -97,6 +97,6 @@ and manage different versions of the software.
 
 ### Key Git Concepts
 
-- Branches support parallel development.
+- Branches support isolated feature development.
 - Merging integrates changes from different branches.
 - Remote repositories support collaboration and backup.
