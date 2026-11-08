@@ -84,3 +84,8 @@ Upload or share either:
 2. this complete folder/ZIP archive.
 
 Before submitting, replace the placeholder student information in the first notebook cell.
+
+## Git Version Control Practice
+
+This section records the Git operations
+performed during the OSSD26-Lab1 experiment.
