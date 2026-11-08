@@ -98,3 +98,5 @@ and manage different versions of the software.
 ### Key Git Concepts
 
 - Branches support independent development workflows across isolated feature branches.
+- Merging integrates changes from different branches.
+- Remote repositories support collaboration and backup.
